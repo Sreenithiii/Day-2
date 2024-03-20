@@ -1,0 +1,25 @@
+Differnce between document object and windows object
+
+Document object
+   The document object is a programming interface for web documents and its helps to the programs can change the document
+   structure style and content.
+
+Window Object 
+   Its represents an open window in a browser. its supported by all browsers.
+
+   * Document object represents the document loaded inside the window or browser
+   * Window object represents the browser window in which we are seeing in the content
+
+   * The properties are stored in the document object
+   * The properties are stored in the window object
+
+   * Document is one of the object in Window
+   * Window is the object of browser
+
+   * It is the root element of the document object model 
+   * It is global element for all objects functions etc
+   
+   * we can not access windows objects properties inside the document 
+   * we can access document object properties inside the  window 
+
+
