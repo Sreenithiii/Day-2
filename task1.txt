@@ -7,6 +7,8 @@ Document object
 Window Object 
    Its represents an open window in a browser. its supported by all browsers.
 
+Document object V/s Window Object
+
    * Document object represents the document loaded inside the window or browser
    * Window object represents the browser window in which we are seeing in the content
 
@@ -21,5 +23,18 @@ Window Object
    
    * we can not access windows objects properties inside the document 
    * we can access document object properties inside the  window 
+
+   * Provides access to the content and structure of the document, such as elements, attributes, and text.
+   * Provides access to browser features and functionality such as navigating to URLs 
+
+   *Methods like getElementById(), getElementsByTagName(), and createElement() are available through the Document object.
+   *Contains properties like window.innerWidth, window.innerHeight, and window.document (which references the Document object).
+
+   *Allows manipulation of the document's content, styling, and structure.
+   *Allows interaction with the browser environment, including opening new windows or tabs, resizing windows, 
+   and accessing browser-specific information.
+   
+
+
 
 
